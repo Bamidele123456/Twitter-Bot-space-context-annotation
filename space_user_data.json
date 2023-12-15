@@ -1,482 +1,354 @@
 [
    {
-      "id": "3332028077",
-      "name": "tech \ud83d\udd0c",
-      "username": "annakalene_",
-      "created_at": "2015-06-18T01:41:23.000Z",
-      "location": "CareAlot\ud83d\udccd\ud83c\udf08",
+      "id": "1357124413662052358",
+      "name": "Teachers Talk Radio",
+      "username": "TTRadioOfficial",
+      "created_at": "2021-02-04T00:31:05.000Z",
+      "location": "United Kingdom",
       "protected": false,
       "public_metrics": {
-         "followers_count": 28695,
-         "following_count": 15761,
-         "tweet_count": 139303,
-         "listed_count": 24,
-         "like_count": 74963
+         "followers_count": 18466,
+         "following_count": 6392,
+         "tweet_count": 39413,
+         "listed_count": 41,
+         "like_count": 24369
       },
-      "description": "1111\ud83e\udeb8\u2022Support Specialist\u2022Published Model\u2022Resume Writer @shetechsavvyllc \u2022 #SpacesHost #MentalHealthMatters #BlackTechTwitter #WomeninTech",
+      "description": "Welcome to Teachers Talk Radio: leading the education conversation. Listen live: https://t.co/x7vYR3VCql \ud83c\udfa7 Listen Back: https://t.co/m292OIEqdU",
       "entities": {
          "url": {
             "urls": [
                {
                   "start": 0,
                   "end": 23,
-                  "url": "https://t.co/fIT4p3Ahtc",
-                  "expanded_url": "https://msha.ke/annakalene",
-                  "display_url": "msha.ke/annakalene"
+                  "url": "https://t.co/MFSKeuE2ne",
+                  "expanded_url": "http://www.ttradio.org",
+                  "display_url": "ttradio.org"
+               }
+            ]
+         },
+         "description": {
+            "urls": [
+               {
+                  "start": 81,
+                  "end": 104,
+                  "url": "https://t.co/x7vYR3VCql",
+                  "expanded_url": "http://podbean.com/lsw/ttradio",
+                  "display_url": "podbean.com/lsw/ttradio"
+               },
+               {
+                  "start": 120,
+                  "end": 143,
+                  "url": "https://t.co/m292OIEqdU",
+                  "expanded_url": "http://ttradio.org/listenback",
+                  "display_url": "ttradio.org/listenback"
+               }
+            ]
+         }
+      },
+      "pinned_tweet_id": "1734628117115707816",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1608840754272542723/oWuhYNJc_normal.jpg"
+   },
+   {
+      "id": "1310304903471001604",
+      "name": "Brent Poland",
+      "username": "BrentPoland1",
+      "created_at": "2020-09-27T19:47:02.000Z",
+      "location": "Erewash Derbyshire",
+      "protected": false,
+      "public_metrics": {
+         "followers_count": 1868,
+         "following_count": 2685,
+         "tweet_count": 11373,
+         "listed_count": 3,
+         "like_count": 23273
+      },
+      "description": "Humanities \ud83c\udf0d educator, Irish \u2618\ufe0f Da, NEU \ud83d\udc68\u200d\ud83c\udfebrep,@TTRadioOfficial\ud83c\udf99\ufe0f Host, Erewash Green Party \u267b\ufe0fParliamentary \ud83d\uddf3\ufe0fcandidate, Podcaster, Stop HS2, views my own.",
+      "entities": {
+         "url": {
+            "urls": [
+               {
+                  "start": 0,
+                  "end": 23,
+                  "url": "https://t.co/EpRDkfShWZ",
+                  "expanded_url": "https://shows.acast.com/the-brent-poland-podcast",
+                  "display_url": "shows.acast.com/the-brent-pola\u2026"
+               }
+            ]
+         },
+         "description": {
+            "mentions": [
+               {
+                  "start": 47,
+                  "end": 63,
+                  "username": "TTRadioOfficial"
+               }
+            ]
+         }
+      },
+      "pinned_tweet_id": "",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1694350684487856129/gqyUo8dY_normal.jpg"
+   },
+   {
+      "id": "1420694964800004096",
+      "name": "iGred",
+      "username": "iGred_org",
+      "created_at": "2021-07-29T10:38:02.000Z",
+      "location": "Ghana",
+      "protected": false,
+      "public_metrics": {
+         "followers_count": 216,
+         "following_count": 521,
+         "tweet_count": 177,
+         "listed_count": 0,
+         "like_count": 96
+      },
+      "description": "iGRED works on #SDGs\u2019 aligned initiatives that promotes #GenderEquality, #Education, Development & Safety of #women & Girls",
+      "entities": {
+         "url": {
+            "urls": [
+               {
+                  "start": 0,
+                  "end": 23,
+                  "url": "https://t.co/mq221pD7YT",
+                  "expanded_url": "http://igredafrica.org",
+                  "display_url": "igredafrica.org"
                }
             ]
          },
          "description": {
             "hashtags": [
                {
-                  "start": 74,
-                  "end": 85,
-                  "tag": "SpacesHost"
+                  "start": 15,
+                  "end": 20,
+                  "tag": "SDGs"
                },
                {
-                  "start": 86,
-                  "end": 106,
-                  "tag": "MentalHealthMatters"
-               },
-               {
-                  "start": 107,
-                  "end": 124,
-                  "tag": "BlackTechTwitter"
-               },
-               {
-                  "start": 125,
-                  "end": 137,
-                  "tag": "WomeninTech"
-               }
-            ],
-            "mentions": [
-               {
-                  "start": 55,
+                  "start": 56,
                   "end": 71,
-                  "username": "shetechsavvyllc"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1731011160089006389",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1733997185958608896/GvghpfnZ_normal.jpg"
-   },
-   {
-      "id": "1713939635770974208",
-      "name": "NAVRAS Tech",
-      "username": "NavrasTech",
-      "created_at": "2023-10-16T15:27:28.000Z",
-      "location": "Decentralized",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 515,
-         "following_count": 883,
-         "tweet_count": 189,
-         "listed_count": 0,
-         "like_count": 518
-      },
-      "description": "Our journey is ambitious, bold, and broad in scope, but we believe that our technologies will quickly interrupt the mediocre norm that exists.",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/DtCmWM1KK6",
-                  "expanded_url": "https://navrastech.io/",
-                  "display_url": "navrastech.io"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1732859062197350670",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1713939923424727041/hAaEF3FE_normal.jpg"
-   },
-   {
-      "id": "1711310653858648064",
-      "name": "DCAP Foundation",
-      "username": "dcap_2023",
-      "created_at": "2023-10-09T09:20:44.000Z",
-      "location": "",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 22,
-         "following_count": 34,
-         "tweet_count": 22,
-         "listed_count": 0,
-         "like_count": 2
-      },
-      "description": "DCAP is a non-profit organization that provides counseling and support services to GenZs, as well as digital inclusion advocacy and support.",
-      "entities": "",
-      "pinned_tweet_id": "1732734093094260954",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1711310801892442112/HvSCXY08_normal.jpg"
-   },
-   {
-      "id": "888489290686181376",
-      "name": "Lagos Tech Fest",
-      "username": "lagostechfest",
-      "created_at": "2017-07-21T20:02:09.000Z",
-      "location": "Lagos, Nigeria",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 1000,
-         "following_count": 1,
-         "tweet_count": 1559,
-         "listed_count": 3,
-         "like_count": 602
-      },
-      "description": "Harmonizing key stakeholders across Nigeria\u2019s tech ecosystem. Organized by @eventhivedotng| February 2024, Lagos.",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/b0Ixp2gvuL",
-                  "expanded_url": "https://tech.eventhive.ng",
-                  "display_url": "tech.eventhive.ng"
-               }
-            ]
-         },
-         "description": {
-            "mentions": [
-               {
-                  "start": 75,
-                  "end": 90,
-                  "username": "eventhivedotng"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1703696707144351744/djR7KIBp_normal.jpg"
-   },
-   {
-      "id": "1522105360630575105",
-      "name": "\ud835\udde1\ud835\udddf\ud835\uddf6\ud835\ude01\ud835\uddf2\ud835\uddfb \ud835\udde0\ud835\uddf2\ud835\uddf1\ud835\uddf6\ud835\uddee\u00ae\u00a9",
-      "username": "NLitenMedia",
-      "created_at": "2022-05-05T06:46:35.000Z",
-      "location": "Lagos, Nigeria",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 181,
-         "following_count": 648,
-         "tweet_count": 827,
-         "listed_count": 1,
-         "like_count": 1353
-      },
-      "description": "A Media Company that connects people to opportunities  through advertising, social media management, content creation, digital marketing and etc. \ud83d\ude0a#BeNLitened",
-      "entities": {
-         "description": {
-            "hashtags": [
-               {
-                  "start": 147,
-                  "end": 158,
-                  "tag": "BeNLitened"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1522106536893554688/GaicmFPg_normal.jpg"
-   },
-   {
-      "id": "1544709992",
-      "name": "Travis | Fit Tech Bro",
-      "username": "the_travisday",
-      "created_at": "2013-06-25T03:36:43.000Z",
-      "location": "San Diego, CA",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 2020,
-         "following_count": 254,
-         "tweet_count": 8002,
-         "listed_count": 25,
-         "like_count": 21506
-      },
-      "description": "Data Engineer (e/acc) // Breaking the nerd stereotype // I help busy 9-5 workers build a strong & lean physique WITHOUT A GYM",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/4MiCrslCTg",
-                  "expanded_url": "https://fit.travis.day",
-                  "display_url": "fit.travis.day"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1734669430880371091",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1682102267825233922/iITadNnO_normal.jpg"
-   },
-   {
-      "id": "1453285167875960835",
-      "name": "that_IT_Guy",
-      "username": "PercyNgala",
-      "created_at": "2021-10-27T09:00:11.000Z",
-      "location": "",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 1536,
-         "following_count": 243,
-         "tweet_count": 1037,
-         "listed_count": 3,
-         "like_count": 2017
-      },
-      "description": "Networks and security and engineer| IT consultant | Tutor | Cyber security Certified (isc2) | Techie\n\nco-founder @mboactf",
-      "entities": {
-         "description": {
-            "mentions": [
-               {
-                  "start": 113,
-                  "end": 121,
-                  "username": "mboactf"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1734180508324524539",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1651970386987294722/0MyYvlcI_normal.jpg"
-   },
-   {
-      "id": "1332033418088099843",
-      "name": "Arbitrum (\ud83d\udc99,\ud83e\udde1)",
-      "username": "arbitrum",
-      "created_at": "2020-11-26T18:48:29.000Z",
-      "location": "",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 901429,
-         "following_count": 20,
-         "tweet_count": 3835,
-         "listed_count": 5079,
-         "like_count": 1224
-      },
-      "description": "Official account of the Arbitrum Foundation, dedicated to the decentralization, security & growth of Arbitrum technologies, including Arbitum One & Nova.",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/aEalRVdbm4",
-                  "expanded_url": "https://arbitrum.foundation/",
-                  "display_url": "arbitrum.foundation"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1717571952599089388",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1653532864309239810/ZjT_zBAS_normal.png"
-   },
-   {
-      "id": "1481888124716392448",
-      "name": "King Sardius\ud83e\udd34",
-      "username": "SardiusJay",
-      "created_at": "2022-01-14T07:17:42.000Z",
-      "location": "Nigeria",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 164,
-         "following_count": 1124,
-         "tweet_count": 1041,
-         "listed_count": 3,
-         "like_count": 1664
-      },
-      "description": "Abba's child. || Frontend Developer. || Technical Writer. || Open Source Lover. || Web 3 @Web3afrika #100daysofcode #31DecemberChallenge",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/FuhixKLE3r",
-                  "expanded_url": "http://github.com/SardiusJay",
-                  "display_url": "github.com/SardiusJay"
-               }
-            ]
-         },
-         "description": {
-            "hashtags": [
-               {
-                  "start": 101,
-                  "end": 115,
-                  "tag": "100daysofcode"
+                  "tag": "GenderEquality"
                },
                {
-                  "start": 116,
-                  "end": 136,
-                  "tag": "31DecemberChallenge"
-               }
-            ],
-            "mentions": [
+                  "start": 73,
+                  "end": 83,
+                  "tag": "Education"
+               },
                {
-                  "start": 89,
-                  "end": 100,
-                  "username": "Web3afrika"
+                  "start": 109,
+                  "end": 115,
+                  "tag": "women"
                }
             ]
          }
       },
-      "pinned_tweet_id": "1719108323423756401",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1699096717268856832/l3AqCeiQ_normal.jpg"
+      "pinned_tweet_id": "1421082253212504068",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1420695299987812360/eXA7H8zA_normal.jpg"
    },
    {
-      "id": "810221154560421889",
-      "name": "Utiva",
-      "username": "utiva_io",
-      "created_at": "2016-12-17T20:32:31.000Z",
-      "location": "London | Lagos ",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 24647,
-         "following_count": 197,
-         "tweet_count": 5720,
-         "listed_count": 38,
-         "like_count": 151085
-      },
-      "description": "\u25aa #1 Premium Tech Training Platform || \u25aa #Accelerating Tech Careers || \u25aa 50,000+ Tech Alumni || \u25aa Virtual Bootcamps || \u25aa 300+ Faculties | \u25aa 30 Cities",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/rPApwHQDxs",
-                  "expanded_url": "http://utiva.io",
-                  "display_url": "utiva.io"
-               }
-            ]
-         },
-         "description": {
-            "hashtags": [
-               {
-                  "start": 41,
-                  "end": 54,
-                  "tag": "Accelerating"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1716574380342259740",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1660901968020140033/jGHzP7YD_normal.jpg"
-   },
-   {
-      "id": "243500690",
-      "name": "Andrew C. Becker",
-      "username": "andrew_c_becker",
-      "created_at": "2011-01-27T05:16:56.000Z",
-      "location": "Cedar Rapids, IA",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 1324,
-         "following_count": 777,
-         "tweet_count": 3442,
-         "listed_count": 27,
-         "like_count": 4434
-      },
-      "description": "Digital Fi\ud835\udd4fer - I turn headaches into opportunities using the power of AI. - #spaceshost of TechMind: X Spaces.",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/7hHdbqv0ht",
-                  "expanded_url": "https://andrewb.bio",
-                  "display_url": "andrewb.bio"
-               }
-            ]
-         },
-         "description": {
-            "hashtags": [
-               {
-                  "start": 77,
-                  "end": 88,
-                  "tag": "spaceshost"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1691469689367506944/c33RflzA_normal.jpg"
-   },
-   {
-      "id": "823925912798371841",
-      "name": "Areous",
-      "username": "itzareous",
-      "created_at": "2017-01-24T16:10:20.000Z",
-      "location": "Remote",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 32817,
-         "following_count": 1544,
-         "tweet_count": 21306,
-         "listed_count": 143,
-         "like_count": 21848
-      },
-      "description": "What\u2019s up ? sapa",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/FEVfJteRRF",
-                  "expanded_url": "https://linktr.ee/itzareous",
-                  "display_url": "linktr.ee/itzareous"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1575444652701933569",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1550637125053317120/-YRX_oJB_normal.jpg"
-   },
-   {
-      "id": "1571222496166252546",
-      "name": "Energyup. Io",
-      "username": "ienergyup",
-      "created_at": "2022-09-17T19:40:47.000Z",
+      "id": "1335773642412732418",
+      "name": "\u00ed\u0251\u028deve_A\u0362\u0362\u0362\u03aege_\u2987Ly\u03ae\u03ae\u0362\u0362\u0362e\u2988",
+      "username": "alphaFemale_LE",
+      "created_at": "2020-12-07T02:30:45.000Z",
       "location": "",
       "protected": false,
       "public_metrics": {
-         "followers_count": 10,
-         "following_count": 146,
-         "tweet_count": 140,
+         "followers_count": 40,
+         "following_count": 67,
+         "tweet_count": 60,
          "listed_count": 0,
-         "like_count": 42
+         "like_count": 58
       },
-      "description": "IEnergyup-InnovationaLab- Technology services, Training and outsourcing",
+      "description": "Feminist Activist || Cake Artist || CEO of Eve\u2019s Cake Culture",
       "entities": "",
       "pinned_tweet_id": "",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1571237107326242818/70J9w9YQ_normal.jpg"
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1354912343650664452/VfwJ_SVL_normal.jpg"
    },
    {
-      "id": "1455064389422288898",
-      "name": "Long Lost",
-      "username": "LongLostNFT",
-      "created_at": "2021-11-01T06:50:54.000Z",
-      "location": "5th Dimension",
+      "id": "2538775168",
+      "name": "Anita E Asamoah MPH (she/her)",
+      "username": "anitaasamoah4",
+      "created_at": "2014-05-10T09:55:43.000Z",
+      "location": "Greater Accra, Ghana",
       "protected": false,
       "public_metrics": {
-         "followers_count": 25308,
-         "following_count": 1534,
-         "tweet_count": 10758,
-         "listed_count": 65,
-         "like_count": 38752
+         "followers_count": 1014,
+         "following_count": 3085,
+         "tweet_count": 2217,
+         "listed_count": 8,
+         "like_count": 1938
       },
-      "description": "A 10,000 piece genesis collection from the \u20185th Dimension Collective\u2019 Artist:@astrosdimension  |  https://t.co/zQwI3GN8JO  | #LongLostNFT",
+      "description": "KanoZaria\ud83c\uddf3\ud83c\uddecLegon\ud83c\uddec\ud83c\udded Pub Health Epidemiologist Advocacy Research AMR Data Analysis Talks(TV/Rad) Writer Assertive \nanitaeasamoah@gmail.com\nTweets are my views",
       "entities": {
          "url": {
             "urls": [
                {
                   "start": 0,
                   "end": 23,
-                  "url": "https://t.co/LAV3uTfCCz",
-                  "expanded_url": "http://thelonglost.io",
-                  "display_url": "thelonglost.io"
+                  "url": "https://t.co/VYj74IHijq",
+                  "expanded_url": "https://anitaeasamoah.wordpress.com/",
+                  "display_url": "anitaeasamoah.wordpress.com"
+               }
+            ]
+         }
+      },
+      "pinned_tweet_id": "1247333028352925697",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1216303370157293569/LTOr4Dyx_normal.jpg"
+   },
+   {
+      "id": "1409621931406643201",
+      "name": "YouthKommunity.Org",
+      "username": "YouthKommunity",
+      "created_at": "2021-06-28T21:18:00.000Z",
+      "location": "Accra, Ghana",
+      "protected": false,
+      "public_metrics": {
+         "followers_count": 190,
+         "following_count": 50,
+         "tweet_count": 368,
+         "listed_count": 0,
+         "like_count": 89
+      },
+      "description": "We inspire, train and build youth communities to solve social problems for humanity\n|Education & Skills Dev't|SRHR & Climate Justice|Gender Equality|Empowerment",
+      "entities": "",
+      "pinned_tweet_id": "1704910460838162721",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1578852218152927232/PUSYrGHm_normal.jpg"
+   },
+   {
+      "id": "1563031944837070848",
+      "name": "Flexter.eth|\ud83e\udea8\ud83d\udcc4\u2702\ud83e\udd8e\ud83d\udd96.eth",
+      "username": "FlexterEth",
+      "created_at": "2022-08-26T05:14:16.000Z",
+      "location": "ENS Maxis Rocket Ship",
+      "protected": false,
+      "public_metrics": {
+         "followers_count": 3393,
+         "following_count": 1517,
+         "tweet_count": 10948,
+         "listed_count": 11,
+         "like_count": 25063
+      },
+      "description": "@ENSMaxisNFT Event Coordinator",
+      "entities": {
+         "url": {
+            "urls": [
+               {
+                  "start": 0,
+                  "end": 23,
+                  "url": "https://t.co/HAOKWLWJ6u",
+                  "expanded_url": "https://flexter.eth.limo",
+                  "display_url": "flexter.eth.limo"
+               }
+            ]
+         },
+         "description": {
+            "mentions": [
+               {
+                  "start": 0,
+                  "end": 12,
+                  "username": "ENSMaxisNFT"
+               }
+            ]
+         }
+      },
+      "pinned_tweet_id": "1724954686241865735",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1734983934759346176/_kmFHgpu_normal.jpg"
+   },
+   {
+      "id": "1680967804474781696",
+      "name": "Freedom in Education",
+      "username": "Freedom_in_Ed",
+      "created_at": "2023-07-17T15:49:10.000Z",
+      "location": "America",
+      "protected": false,
+      "public_metrics": {
+         "followers_count": 343,
+         "following_count": 68,
+         "tweet_count": 250,
+         "listed_count": 2,
+         "like_count": 589
+      },
+      "description": "We are engaged parents raising virtuous children equipped with core knowledge and an understanding of America\u2019s founding principles to protect their future.",
+      "entities": {
+         "url": {
+            "urls": [
+               {
+                  "start": 0,
+                  "end": 23,
+                  "url": "https://t.co/YM9mju8GQE",
+                  "expanded_url": "http://freedomined.org",
+                  "display_url": "freedomined.org"
+               }
+            ]
+         }
+      },
+      "pinned_tweet_id": "1731694708299108530",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1704543243373850625/LT2eN1Jx_normal.jpg"
+   },
+   {
+      "id": "1663333450865156101",
+      "name": "Christel Guillen",
+      "username": "Christel_OCC",
+      "created_at": "2023-05-29T23:57:02.000Z",
+      "location": "Miami, FL",
+      "protected": false,
+      "public_metrics": {
+         "followers_count": 1095,
+         "following_count": 976,
+         "tweet_count": 5123,
+         "listed_count": 24,
+         "like_count": 7374
+      },
+      "description": "I\u2019m leveraging AI to monetize my knowledge and Web3 to monetize access to me. Guiding anyone that wants to learn how \ud83d\udc49\ud83c\udffd https://t.co/bNRt71PkTg",
+      "entities": {
+         "url": {
+            "urls": [
+               {
+                  "start": 0,
+                  "end": 23,
+                  "url": "https://t.co/rQypbjOIqR",
+                  "expanded_url": "https://gary.club/christel",
+                  "display_url": "gary.club/christel"
+               }
+            ]
+         },
+         "description": {
+            "urls": [
+               {
+                  "start": 120,
+                  "end": 143,
+                  "url": "https://t.co/bNRt71PkTg",
+                  "expanded_url": "http://bit.ly/joinchristel",
+                  "display_url": "bit.ly/joinchristel"
+               }
+            ]
+         }
+      },
+      "pinned_tweet_id": "1730655423382884490",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1674857293253337098/AL1Cv7nI_normal.jpg"
+   },
+   {
+      "id": "1638639710204567554",
+      "name": "Open Campus",
+      "username": "opencampus_xyz",
+      "created_at": "2023-03-22T20:32:42.000Z",
+      "location": "Blockchain",
+      "protected": false,
+      "public_metrics": {
+         "followers_count": 146281,
+         "following_count": 26,
+         "tweet_count": 1093,
+         "listed_count": 187,
+         "like_count": 972
+      },
+      "description": "First community-led #education protocol to build a #decentralized campus, adopted by @TinyTapAB \n\nhttps://t.co/SEpcVQHbrW",
+      "entities": {
+         "url": {
+            "urls": [
+               {
+                  "start": 0,
+                  "end": 23,
+                  "url": "https://t.co/cPKcWUoCxO",
+                  "expanded_url": "https://www.opencampus.xyz/",
+                  "display_url": "opencampus.xyz"
                }
             ]
          },
@@ -485,479 +357,33 @@
                {
                   "start": 98,
                   "end": 121,
-                  "url": "https://t.co/zQwI3GN8JO",
-                  "expanded_url": "http://side.xyz/long-lost",
-                  "display_url": "side.xyz/long-lost"
+                  "url": "https://t.co/SEpcVQHbrW",
+                  "expanded_url": "https://linktr.ee/opencampus_xyz",
+                  "display_url": "linktr.ee/opencampus_xyz"
                }
             ],
             "hashtags": [
                {
-                  "start": 125,
-                  "end": 137,
-                  "tag": "LongLostNFT"
-               }
-            ],
-            "mentions": [
-               {
-                  "start": 77,
-                  "end": 93,
-                  "username": "astrosdimension"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1681315088991653889",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1493402767670448128/kdt92wK8_normal.jpg"
-   },
-   {
-      "id": "1196094113248108544",
-      "name": "Lux Tech Academy : Build A Future Proof Career",
-      "username": "lux_academy",
-      "created_at": "2019-11-17T15:54:14.000Z",
-      "location": "Global ",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 8361,
-         "following_count": 46,
-         "tweet_count": 3780,
-         "listed_count": 16,
-         "like_count": 11724
-      },
-      "description": "Learn software engineering, machine learning, analytics, data science ,and data engineering the right way from top industry experts and a community of peers.",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/nDmMezdmMv",
-                  "expanded_url": "https://dev.to/luxacademy",
-                  "display_url": "dev.to/luxacademy"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1303409820293304322",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1454736900170919937/FVyCSenV_normal.jpg"
-   },
-   {
-      "id": "1158662094893588481",
-      "name": "PDMA Technologies",
-      "username": "AcademyPremium",
-      "created_at": "2019-08-06T08:52:25.000Z",
-      "location": "29 Ogundana St, Allen, Ikeja ",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 103,
-         "following_count": 199,
-         "tweet_count": 247,
-         "listed_count": 0,
-         "like_count": 270
-      },
-      "description": "We exist to help you become more through digital and tech skills",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/3TkthjP4Db",
-                  "expanded_url": "https://pdma.io",
-                  "display_url": "pdma.io"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1205896204263067648",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1728061263177986048/GP0IBnKt_normal.jpg"
-   },
-   {
-      "id": "1233732256012947458",
-      "name": "Schull.io",
-      "username": "schull_io",
-      "created_at": "2020-02-29T12:34:42.000Z",
-      "location": "Lagos, Nigeria",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 1071,
-         "following_count": 34,
-         "tweet_count": 241,
-         "listed_count": 0,
-         "like_count": 143
-      },
-      "description": "At https://t.co/b2FCeRkkKN, we offer:\n\ud83d\udc69\u200d\ud83c\udfeb\ud83d\udc68\u200d\ud83c\udfeb In-demand Cloud Tech Training\n\u25cf \ud83d\udc69\u200d\ud83c\udfeb Securing you rewarding jobs and careers in Cloud Computing",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/WNntIYuhsG",
-                  "expanded_url": "http://www.schull.io",
-                  "display_url": "schull.io"
-               }
-            ]
-         },
-         "description": {
-            "urls": [
-               {
-                  "start": 3,
-                  "end": 26,
-                  "url": "https://t.co/b2FCeRkkKN",
-                  "expanded_url": "http://Schull.io",
-                  "display_url": "Schull.io"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1706784286139899904/uMlF0HAi_normal.jpg"
-   },
-   {
-      "id": "1527080675098120197",
-      "name": "Jasmine Vo",
-      "username": "jasminepvodev",
-      "created_at": "2022-05-19T00:17:24.000Z",
-      "location": "Dallas, TX",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 1000,
-         "following_count": 188,
-         "tweet_count": 769,
-         "listed_count": 2,
-         "like_count": 2454
-      },
-      "description": "Software Engineer | Let's Make an IMPACT | Dream Big, Work Hard, Be Kind \ud83e\udd8b Catch me coding, eating, or at the gym #FitDevs \ud83e\udef6\ud83c\udffc#womenwhocode",
-      "entities": {
-         "description": {
-            "hashtags": [
-               {
-                  "start": 114,
-                  "end": 122,
-                  "tag": "FitDevs"
+                  "start": 20,
+                  "end": 30,
+                  "tag": "education"
                },
                {
-                  "start": 125,
-                  "end": 138,
-                  "tag": "womenwhocode"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1595778698887811076",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1625645066340401153/N4Jd8klb_normal.jpg"
-   },
-   {
-      "id": "1544975432981823489",
-      "name": "European Cardano Community",
-      "username": "EuCardano",
-      "created_at": "2022-07-07T09:24:28.000Z",
-      "location": "Europe",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 3833,
-         "following_count": 2299,
-         "tweet_count": 2910,
-         "listed_count": 26,
-         "like_count": 14561
-      },
-      "description": "The European Cardano Community - join us and let\u2019s change the world together!",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/hzHJ63sk5r",
-                  "expanded_url": "https://linktr.ee/europecardanocommunity",
-                  "display_url": "linktr.ee/europecardanoc\u2026"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1733193301224759755",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1613879519441551360/Cw_hqS8I_normal.jpg"
-   },
-   {
-      "id": "1248524017931345920",
-      "name": "SkilledUpLife",
-      "username": "SkilledUpLife",
-      "created_at": "2020-04-10T08:11:44.000Z",
-      "location": "Manchester, UK",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 441,
-         "following_count": 227,
-         "tweet_count": 2246,
-         "listed_count": 8,
-         "like_count": 350
-      },
-      "description": "SkilledUp Life brings together over 40,000 Skilled Volunteers looking to gain more Experience with Tech Startups that require Talent. Concept by @manojranaweera",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/m7z6NmPUJ6",
-                  "expanded_url": "https://skilledup.life",
-                  "display_url": "skilledup.life"
-               }
-            ]
-         },
-         "description": {
-            "mentions": [
-               {
-                  "start": 145,
-                  "end": 160,
-                  "username": "manojranaweera"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1734876637940858915",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1608780941857538049/SbKne25D_normal.jpg"
-   },
-   {
-      "id": "403268434",
-      "name": "Frenchie \ud83c\uddeb\ud83c\uddf7",
-      "username": "FrenchieNFTeam",
-      "created_at": "2011-11-02T08:04:17.000Z",
-      "location": "Paris",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 4765,
-         "following_count": 2041,
-         "tweet_count": 24420,
-         "listed_count": 41,
-         "like_count": 29595
-      },
-      "description": "Co-founder @ProofofFrench, #SpacesHost \ud83c\uddeb\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 | Host Le Daily PoF | Advisor | building bridges \ud83c\udf09 | The Bj Guy \u2600\ufe0f",
-      "entities": {
-         "description": {
-            "hashtags": [
-               {
-                  "start": 27,
-                  "end": 38,
-                  "tag": "SpacesHost"
+                  "start": 51,
+                  "end": 65,
+                  "tag": "decentralized"
                }
             ],
             "mentions": [
                {
-                  "start": 11,
-                  "end": 25,
-                  "username": "ProofofFrench"
+                  "start": 85,
+                  "end": 95,
+                  "username": "TinyTapAB"
                }
             ]
          }
       },
-      "pinned_tweet_id": "1609849763725250561",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1593220118628257792/y-ZbmWBl_normal.jpg"
-   },
-   {
-      "id": "1509219308240523268",
-      "name": "The Listening Room Collective",
-      "username": "TheListenRoom",
-      "created_at": "2022-03-30T17:21:56.000Z",
-      "location": "",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 2180,
-         "following_count": 1416,
-         "tweet_count": 3560,
-         "listed_count": 18,
-         "like_count": 6737
-      },
-      "description": "We specialize in live event production, distribution management & brand development for artists around the world! \ud83c\udf0f Submit Your Music Here! \ud83d\udd3d",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/AjCsXHshNA",
-                  "expanded_url": "http://www.thelr.io/submit",
-                  "display_url": "thelr.io/submit"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1625459751176794115/euuBp64q_normal.jpg"
-   },
-   {
-      "id": "1880711510",
-      "name": "Cortouch Media",
-      "username": "CortouchMedia",
-      "created_at": "2013-09-18T20:03:46.000Z",
-      "location": "Ibadan, Nigeria",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 144,
-         "following_count": 409,
-         "tweet_count": 923,
-         "listed_count": 1,
-         "like_count": 691
-      },
-      "description": "We train in Web design, Product Management, Ui & Ux Design, Motion Design, Digital Marketing, Data Science, Data Analytics, Front End  & Backend Development etc",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/PeYLrE4qe5",
-                  "expanded_url": "https://www.cortouchmedia.com.ng",
-                  "display_url": "cortouchmedia.com.ng"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1335520063026327552/XhU4w2eL_normal.jpg"
-   },
-   {
-      "id": "1514429909959159814",
-      "name": "Keysa - Get ur \ud83d\udd11's in Cold Storage",
-      "username": "SimplestBTCBook",
-      "created_at": "2022-04-14T02:26:56.000Z",
-      "location": "",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 3080,
-         "following_count": 1797,
-         "tweet_count": 9285,
-         "listed_count": 40,
-         "like_count": 19575
-      },
-      "description": "\ud83e\udde1 Bitcoin Author \ud83d\udcd9Educator \u2022 Spaces:  Mon - Basic Bitcoin Tech \u2022 Tues - Bitcoin Book Club  #npub1dpna3xwwddnhhzg9ycpvlcz2ze0jdwm2rf3eqd2lf9leaewtq7tqhw0ef2",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/FwintuMZSI",
-                  "expanded_url": "http://thesimplestbitcoinbook.net",
-                  "display_url": "thesimplestbitcoinbook.net"
-               }
-            ]
-         },
-         "description": {
-            "hashtags": [
-               {
-                  "start": 91,
-                  "end": 155,
-                  "tag": "npub1dpna3xwwddnhhzg9ycpvlcz2ze0jdwm2rf3eqd2lf9leaewtq7tqhw0ef2"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1617214879936421888",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1669100401491148800/tBWOKP7Q_normal.jpg"
-   },
-   {
-      "id": "1573659096489857027",
-      "name": "I\u2764\ufe0fDomains - Building Bridges in Web3 Digital ID",
-      "username": "iheartdomains",
-      "created_at": "2022-09-24T13:02:32.000Z",
-      "location": "ETH, Polygon & BNB Chain",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 12473,
-         "following_count": 1187,
-         "tweet_count": 6894,
-         "listed_count": 12,
-         "like_count": 5405
-      },
-      "description": "Web3 Digital ID Marketing & Consulting \u2022 Host of TECH Talk Podcast & Registrar alt root TLDs .xchain & .defiwallet \u2022 Content \ud83d\uddd3\ufe0f https://t.co/ivBJJXNIdv",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/aOfZOoKXx3",
-                  "expanded_url": "http://iheartdomains.com",
-                  "display_url": "iheartdomains.com"
-               }
-            ]
-         },
-         "description": {
-            "urls": [
-               {
-                  "start": 128,
-                  "end": 151,
-                  "url": "https://t.co/ivBJJXNIdv",
-                  "expanded_url": "http://link3.to/defiwallet",
-                  "display_url": "link3.to/defiwallet"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1720527315145253154",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1670187397156413440/wbm3fyzG_normal.jpg"
-   },
-   {
-      "id": "1723943805555290112",
-      "name": "\ud83d\udc8e\u0586\ud835\udc2d\ud835\udd8a\uaa9c\ud835\udd56\u0273\ud83d\udc8e",
-      "username": "SolaroofGlobal",
-      "created_at": "2023-11-13T06:00:33.000Z",
-      "location": "\u1102\u03a3\u039bDI\u041fG F\u042f\u04e8M \u01ac\u0389\u03a3 F\u042f\u04e8\u041f\u01ac\ud83e\uddbe",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 64,
-         "following_count": 115,
-         "tweet_count": 500,
-         "listed_count": 0,
-         "like_count": 674
-      },
-      "description": "\u201c\ud835\udc02\ud835\udc21\ud835\udc1a\ud835\udc28\ud835\udc2c \ud835\udc22\ud835\udc2c \ud835\udc26\ud835\udc32 \ud835\udc1c\ud835\udc1a\ud835\udc27\ud835\udc2f\ud835\udc1a\ud835\udc2c, \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc08 \ud835\udc29\ud835\udc1a\ud835\udc22\ud835\udc27\ud835\udc2d \ud835\udc22\ud835\udc2d \ud835\udc30\ud835\udc22\ud835\udc2d\ud835\udc21 \ud835\udc20\ud835\udc2b\ud835\udc1a\ud835\udc1c\ud835\udc1e.\u201d -\ud83d\udc8e\u0586\ud835\udc2d\ud835\udd8a\uaa9c\ud835\udd56\u0273\ud83d\udc8e | \u01a7\u04e8\u1102\u039b\u042f\u04e8\u04e8F G\u1102\u04e8B\u039b\u1102 \u01a7\u04e8\u1102\u0426\u01acI\u04e8\u041f\u01a7 \ud83c\udf0f | \u1103\u03a3\u04e8 | \u039b\u042f\u01acI\u01a7\u01ac\ud83d\uddbc\ufe0f | \ud83c\uddfa\ud83c\uddf8V\u03a3\u01ac\ud83d\udde1\ufe0f",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/FevuB68mcH",
-                  "expanded_url": "http://solaroofglobalsolutions.com",
-                  "display_url": "solaroofglobalsolutions.com"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1735023617530831282",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1734729251155492865/1RPAQyXI_normal.jpg"
-   },
-   {
-      "id": "2588593081",
-      "name": "Boston_Broadside",
-      "username": "bostonbroadside",
-      "created_at": "2014-06-26T01:21:43.000Z",
-      "location": "Massachusetts, USA",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 2368,
-         "following_count": 158,
-         "tweet_count": 679,
-         "listed_count": 10,
-         "like_count": 975
-      },
-      "description": "New England's newspaper for Conservative News & Politics",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/w04t8nbM08",
-                  "expanded_url": "http://www.bostonbroadside.com",
-                  "display_url": "bostonbroadside.com"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1734990052038529494",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1732868082006167552/aPH3egAz_normal.jpg"
+      "pinned_tweet_id": "1732728866886779010",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1663518530900197383/lkxK8MTk_normal.png"
    }
 ]
