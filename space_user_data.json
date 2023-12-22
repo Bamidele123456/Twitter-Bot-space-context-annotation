@@ -1,389 +1,279 @@
 [
    {
-      "id": "1357124413662052358",
-      "name": "Teachers Talk Radio",
-      "username": "TTRadioOfficial",
-      "created_at": "2021-02-04T00:31:05.000Z",
-      "location": "United Kingdom",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 18466,
-         "following_count": 6392,
-         "tweet_count": 39413,
-         "listed_count": 41,
-         "like_count": 24369
-      },
-      "description": "Welcome to Teachers Talk Radio: leading the education conversation. Listen live: https://t.co/x7vYR3VCql \ud83c\udfa7 Listen Back: https://t.co/m292OIEqdU",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/MFSKeuE2ne",
-                  "expanded_url": "http://www.ttradio.org",
-                  "display_url": "ttradio.org"
-               }
-            ]
-         },
-         "description": {
-            "urls": [
-               {
-                  "start": 81,
-                  "end": 104,
-                  "url": "https://t.co/x7vYR3VCql",
-                  "expanded_url": "http://podbean.com/lsw/ttradio",
-                  "display_url": "podbean.com/lsw/ttradio"
-               },
-               {
-                  "start": 120,
-                  "end": 143,
-                  "url": "https://t.co/m292OIEqdU",
-                  "expanded_url": "http://ttradio.org/listenback",
-                  "display_url": "ttradio.org/listenback"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1734628117115707816",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1608840754272542723/oWuhYNJc_normal.jpg"
-   },
-   {
-      "id": "1310304903471001604",
-      "name": "Brent Poland",
-      "username": "BrentPoland1",
-      "created_at": "2020-09-27T19:47:02.000Z",
-      "location": "Erewash Derbyshire",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 1868,
-         "following_count": 2685,
-         "tweet_count": 11373,
-         "listed_count": 3,
-         "like_count": 23273
-      },
-      "description": "Humanities \ud83c\udf0d educator, Irish \u2618\ufe0f Da, NEU \ud83d\udc68\u200d\ud83c\udfebrep,@TTRadioOfficial\ud83c\udf99\ufe0f Host, Erewash Green Party \u267b\ufe0fParliamentary \ud83d\uddf3\ufe0fcandidate, Podcaster, Stop HS2, views my own.",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/EpRDkfShWZ",
-                  "expanded_url": "https://shows.acast.com/the-brent-poland-podcast",
-                  "display_url": "shows.acast.com/the-brent-pola\u2026"
-               }
-            ]
-         },
-         "description": {
-            "mentions": [
-               {
-                  "start": 47,
-                  "end": 63,
-                  "username": "TTRadioOfficial"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1694350684487856129/gqyUo8dY_normal.jpg"
-   },
-   {
-      "id": "1420694964800004096",
-      "name": "iGred",
-      "username": "iGred_org",
-      "created_at": "2021-07-29T10:38:02.000Z",
-      "location": "Ghana",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 216,
-         "following_count": 521,
-         "tweet_count": 177,
-         "listed_count": 0,
-         "like_count": 96
-      },
-      "description": "iGRED works on #SDGs\u2019 aligned initiatives that promotes #GenderEquality, #Education, Development & Safety of #women & Girls",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/mq221pD7YT",
-                  "expanded_url": "http://igredafrica.org",
-                  "display_url": "igredafrica.org"
-               }
-            ]
-         },
-         "description": {
-            "hashtags": [
-               {
-                  "start": 15,
-                  "end": 20,
-                  "tag": "SDGs"
-               },
-               {
-                  "start": 56,
-                  "end": 71,
-                  "tag": "GenderEquality"
-               },
-               {
-                  "start": 73,
-                  "end": 83,
-                  "tag": "Education"
-               },
-               {
-                  "start": 109,
-                  "end": 115,
-                  "tag": "women"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1421082253212504068",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1420695299987812360/eXA7H8zA_normal.jpg"
-   },
-   {
-      "id": "1335773642412732418",
-      "name": "\u00ed\u0251\u028deve_A\u0362\u0362\u0362\u03aege_\u2987Ly\u03ae\u03ae\u0362\u0362\u0362e\u2988",
-      "username": "alphaFemale_LE",
-      "created_at": "2020-12-07T02:30:45.000Z",
-      "location": "",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 40,
-         "following_count": 67,
-         "tweet_count": 60,
-         "listed_count": 0,
-         "like_count": 58
-      },
-      "description": "Feminist Activist || Cake Artist || CEO of Eve\u2019s Cake Culture",
-      "entities": "",
-      "pinned_tweet_id": "",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1354912343650664452/VfwJ_SVL_normal.jpg"
-   },
-   {
-      "id": "2538775168",
-      "name": "Anita E Asamoah MPH (she/her)",
-      "username": "anitaasamoah4",
-      "created_at": "2014-05-10T09:55:43.000Z",
-      "location": "Greater Accra, Ghana",
-      "protected": false,
-      "public_metrics": {
-         "followers_count": 1014,
-         "following_count": 3085,
-         "tweet_count": 2217,
-         "listed_count": 8,
-         "like_count": 1938
-      },
-      "description": "KanoZaria\ud83c\uddf3\ud83c\uddecLegon\ud83c\uddec\ud83c\udded Pub Health Epidemiologist Advocacy Research AMR Data Analysis Talks(TV/Rad) Writer Assertive \nanitaeasamoah@gmail.com\nTweets are my views",
-      "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/VYj74IHijq",
-                  "expanded_url": "https://anitaeasamoah.wordpress.com/",
-                  "display_url": "anitaeasamoah.wordpress.com"
-               }
-            ]
-         }
-      },
-      "pinned_tweet_id": "1247333028352925697",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1216303370157293569/LTOr4Dyx_normal.jpg"
-   },
-   {
-      "id": "1409621931406643201",
-      "name": "YouthKommunity.Org",
-      "username": "YouthKommunity",
-      "created_at": "2021-06-28T21:18:00.000Z",
+      "id": "1442125657819861012",
+      "name": "Edmond Akwasi",
+      "username": "Techenvy6",
+      "created_at": "2021-09-26T13:55:47.000Z",
       "location": "Accra, Ghana",
       "protected": false,
       "public_metrics": {
-         "followers_count": 190,
-         "following_count": 50,
-         "tweet_count": 368,
+         "followers_count": 1206,
+         "following_count": 803,
+         "tweet_count": 4642,
+         "listed_count": 1,
+         "like_count": 3851
+      },
+      "description": "Passionate about solving real-world problems through software.\ud83d\udcbb\nFront-end Developer|UI/UX designer| YouTube creator.\nHappy coding \ud83d\ude0a",
+      "entities": {
+         "url": {
+            "urls": [
+               {
+                  "start": 0,
+                  "end": 23,
+                  "url": "https://t.co/ImA7LaH79I",
+                  "expanded_url": "http://folll.io/edmondakwasi",
+                  "display_url": "folll.io/edmondakwasi"
+               }
+            ]
+         }
+      },
+      "pinned_tweet_id": "1699608838725357842",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1699554027128659968/hAWXCxvl_normal.png"
+   },
+   {
+      "id": "1711352795683569665",
+      "name": "CyberKhal",
+      "username": "Cyberkhal",
+      "created_at": "2023-10-09T12:08:19.000Z",
+      "location": "",
+      "protected": false,
+      "public_metrics": {
+         "followers_count": 74,
+         "following_count": 175,
+         "tweet_count": 60,
          "listed_count": 0,
-         "like_count": 89
+         "like_count": 172
       },
-      "description": "We inspire, train and build youth communities to solve social problems for humanity\n|Education & Skills Dev't|SRHR & Climate Justice|Gender Equality|Empowerment",
+      "description": "Aspiring developer\nAlways willing to learn \ud83d\ude0c \ud83d\udcaf \nROAD TO FULL STACK DEVELOPMENT\n\nHTML | CSS | Javascript | Python",
       "entities": "",
-      "pinned_tweet_id": "1704910460838162721",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1578852218152927232/PUSYrGHm_normal.jpg"
+      "pinned_tweet_id": "1729806301377540158",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1711830939481849856/GZd_wgmK_normal.jpg"
    },
    {
-      "id": "1563031944837070848",
-      "name": "Flexter.eth|\ud83e\udea8\ud83d\udcc4\u2702\ud83e\udd8e\ud83d\udd96.eth",
-      "username": "FlexterEth",
-      "created_at": "2022-08-26T05:14:16.000Z",
-      "location": "ENS Maxis Rocket Ship",
+      "id": "1001546626559864837",
+      "name": "Viki Wainaina",
+      "username": "vykiddeh_",
+      "created_at": "2018-05-29T19:31:38.000Z",
+      "location": "Nairobi, Kenya",
       "protected": false,
       "public_metrics": {
-         "followers_count": 3393,
-         "following_count": 1517,
-         "tweet_count": 10948,
-         "listed_count": 11,
-         "like_count": 25063
+         "followers_count": 74,
+         "following_count": 174,
+         "tweet_count": 256,
+         "listed_count": 0,
+         "like_count": 865
       },
-      "description": "@ENSMaxisNFT Event Coordinator",
+      "description": "Frontend developer | Fantasy football | Music\u2764\ufe0f",
       "entities": {
          "url": {
             "urls": [
                {
                   "start": 0,
                   "end": 23,
-                  "url": "https://t.co/HAOKWLWJ6u",
-                  "expanded_url": "https://flexter.eth.limo",
-                  "display_url": "flexter.eth.limo"
-               }
-            ]
-         },
-         "description": {
-            "mentions": [
-               {
-                  "start": 0,
-                  "end": 12,
-                  "username": "ENSMaxisNFT"
+                  "url": "https://t.co/aPfSCDQo0N",
+                  "expanded_url": "https://linktr.ee/vikiDesigns",
+                  "display_url": "linktr.ee/vikiDesigns"
                }
             ]
          }
       },
-      "pinned_tweet_id": "1724954686241865735",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1734983934759346176/_kmFHgpu_normal.jpg"
+      "pinned_tweet_id": "",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1728804755206533120/NUmaXIrp_normal.jpg"
    },
    {
-      "id": "1680967804474781696",
-      "name": "Freedom in Education",
-      "username": "Freedom_in_Ed",
-      "created_at": "2023-07-17T15:49:10.000Z",
-      "location": "America",
+      "id": "58467277",
+      "name": "Nate doesn't know \u26e1",
+      "username": "ThisIsNate_",
+      "created_at": "2009-07-20T13:01:57.000Z",
+      "location": "Johannesburg, South Africa",
       "protected": false,
       "public_metrics": {
-         "followers_count": 343,
-         "following_count": 68,
-         "tweet_count": 250,
-         "listed_count": 2,
-         "like_count": 589
+         "followers_count": 281,
+         "following_count": 389,
+         "tweet_count": 3936,
+         "listed_count": 1,
+         "like_count": 8544
       },
-      "description": "We are engaged parents raising virtuous children equipped with core knowledge and an understanding of America\u2019s founding principles to protect their future.",
+      "description": "\ud83d\ude44\nLearning Software dev, one day at a time!",
       "entities": {
          "url": {
             "urls": [
                {
                   "start": 0,
                   "end": 23,
-                  "url": "https://t.co/YM9mju8GQE",
-                  "expanded_url": "http://freedomined.org",
-                  "display_url": "freedomined.org"
+                  "url": "https://t.co/jwebRIpFRc",
+                  "expanded_url": "https://nathanaelama.live/",
+                  "display_url": "nathanaelama.live"
                }
             ]
          }
       },
-      "pinned_tweet_id": "1731694708299108530",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1704543243373850625/LT2eN1Jx_normal.jpg"
+      "pinned_tweet_id": "1658421443376365568",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1039900126599364608/cjRIL0QT_normal.jpg"
    },
    {
-      "id": "1663333450865156101",
-      "name": "Christel Guillen",
-      "username": "Christel_OCC",
-      "created_at": "2023-05-29T23:57:02.000Z",
-      "location": "Miami, FL",
+      "id": "1336698338205261825",
+      "name": "Sahil",
+      "username": "Sahil121315",
+      "created_at": "2020-12-09T15:45:04.000Z",
+      "location": "",
       "protected": false,
       "public_metrics": {
-         "followers_count": 1095,
-         "following_count": 976,
-         "tweet_count": 5123,
-         "listed_count": 24,
-         "like_count": 7374
+         "followers_count": 61,
+         "following_count": 174,
+         "tweet_count": 113,
+         "listed_count": 0,
+         "like_count": 45527
       },
-      "description": "I\u2019m leveraging AI to monetize my knowledge and Web3 to monetize access to me. Guiding anyone that wants to learn how \ud83d\udc49\ud83c\udffd https://t.co/bNRt71PkTg",
+      "description": "Coding Enthusiastic | Basic Java | Dart | Flutter | Android development",
       "entities": {
          "url": {
             "urls": [
                {
                   "start": 0,
                   "end": 23,
-                  "url": "https://t.co/rQypbjOIqR",
-                  "expanded_url": "https://gary.club/christel",
-                  "display_url": "gary.club/christel"
-               }
-            ]
-         },
-         "description": {
-            "urls": [
-               {
-                  "start": 120,
-                  "end": 143,
-                  "url": "https://t.co/bNRt71PkTg",
-                  "expanded_url": "http://bit.ly/joinchristel",
-                  "display_url": "bit.ly/joinchristel"
+                  "url": "https://t.co/AMd4elPNCq",
+                  "expanded_url": "https://www.linkedin.com/in/sahil-bansal-882b41272?utm_source=share&utm_campaign=share_via&ut",
+                  "display_url": "linkedin.com/in/sahil-bansa\u2026"
                }
             ]
          }
       },
-      "pinned_tweet_id": "1730655423382884490",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1674857293253337098/AL1Cv7nI_normal.jpg"
+      "pinned_tweet_id": "1681616180325535744",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1713256952447574016/10os5hF0_normal.jpg"
    },
    {
-      "id": "1638639710204567554",
-      "name": "Open Campus",
-      "username": "opencampus_xyz",
-      "created_at": "2023-03-22T20:32:42.000Z",
-      "location": "Blockchain",
+      "id": "1189847093952815111",
+      "name": "KHEEnGJaMES\ud83d\udc51",
+      "username": "kheengjames",
+      "created_at": "2019-10-31T10:10:44.000Z",
+      "location": "Nigeria",
       "protected": false,
       "public_metrics": {
-         "followers_count": 146281,
-         "following_count": 26,
-         "tweet_count": 1093,
-         "listed_count": 187,
-         "like_count": 972
+         "followers_count": 1007,
+         "following_count": 1238,
+         "tweet_count": 1104,
+         "listed_count": 0,
+         "like_count": 5492
       },
-      "description": "First community-led #education protocol to build a #decentralized campus, adopted by @TinyTapAB \n\nhttps://t.co/SEpcVQHbrW",
+      "description": "Aspiring web developer | Mining engineering student \ud83d\ude80 | Patience as my virtue \u231b\ufe0f | Seeking opportunities in tech \ud83d\udcbb\ud83c\udf10 | #WebDev #MiningEngineering #Innovation",
       "entities": {
-         "url": {
-            "urls": [
-               {
-                  "start": 0,
-                  "end": 23,
-                  "url": "https://t.co/cPKcWUoCxO",
-                  "expanded_url": "https://www.opencampus.xyz/",
-                  "display_url": "opencampus.xyz"
-               }
-            ]
-         },
          "description": {
-            "urls": [
-               {
-                  "start": 98,
-                  "end": 121,
-                  "url": "https://t.co/SEpcVQHbrW",
-                  "expanded_url": "https://linktr.ee/opencampus_xyz",
-                  "display_url": "linktr.ee/opencampus_xyz"
-               }
-            ],
             "hashtags": [
                {
-                  "start": 20,
-                  "end": 30,
-                  "tag": "education"
+                  "start": 118,
+                  "end": 125,
+                  "tag": "WebDev"
                },
                {
-                  "start": 51,
-                  "end": 65,
-                  "tag": "decentralized"
-               }
-            ],
-            "mentions": [
+                  "start": 126,
+                  "end": 144,
+                  "tag": "MiningEngineering"
+               },
                {
-                  "start": 85,
-                  "end": 95,
-                  "username": "TinyTapAB"
+                  "start": 145,
+                  "end": 156,
+                  "tag": "Innovation"
                }
             ]
          }
       },
-      "pinned_tweet_id": "1732728866886779010",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1663518530900197383/lkxK8MTk_normal.png"
+      "pinned_tweet_id": "",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1581948854571868161/-vMd7tR5_normal.jpg"
+   },
+   {
+      "id": "1559580622900940802",
+      "name": "CoderIB\ud83e\uddd1\u200d\ud83d\udcbb",
+      "username": "AdebanjoIbrahi9",
+      "created_at": "2022-08-16T16:40:09.000Z",
+      "location": "tech space\ud83e\uddd1\u200d\ud83d\udcbb\ud83e\ude90",
+      "protected": false,
+      "public_metrics": {
+         "followers_count": 1066,
+         "following_count": 2032,
+         "tweet_count": 1293,
+         "listed_count": 1,
+         "like_count": 2072
+      },
+      "description": "Frontend developer\ud83e\uddd1\u200d\ud83d\udcbb \u2605\ud83e\ude7aVet. med student #Abusite \u2605learning Js, react... \u2605Documenting my journey\ud83d\udcda\u2605 Doing #100DaysOfCode \u2605open to connect \ud83e\udd1d.",
+      "entities": {
+         "description": {
+            "hashtags": [
+               {
+                  "start": 41,
+                  "end": 49,
+                  "tag": "Abusite"
+               },
+               {
+                  "start": 105,
+                  "end": 119,
+                  "tag": "100DaysOfCode"
+               }
+            ]
+         }
+      },
+      "pinned_tweet_id": "",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1716369522431561728/5w-a2YIU_normal.jpg"
+   },
+   {
+      "id": "1579018585153933312",
+      "name": "!daddy\u2019s doll\u00a1\ud83d\udc68\u200d\ud83d\udc67",
+      "username": "dunia_remove",
+      "created_at": "2022-10-09T07:59:13.000Z",
+      "location": "",
+      "protected": false,
+      "public_metrics": {
+         "followers_count": 131,
+         "following_count": 128,
+         "tweet_count": 732,
+         "listed_count": 0,
+         "like_count": 10262
+      },
+      "description": "Python is my best programming language\u203c\ufe0f Backend || Python \ud83d\udc0d ~ C++ ~ HTML ~ CSS ~ A growing developer ~ || Data scientist \"Tech.-.-.-.Lover\u2019s \ud83d\udcbb\" -.- \u00af\\_(\u30c4)_/\u00af",
+      "entities": "",
+      "pinned_tweet_id": "1727783559077744727",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1730852630367199232/rIGlBdXx_normal.jpg"
+   },
+   {
+      "id": "751057530802040833",
+      "name": "Abel Emmanuel\ud83d\udc68\ud83c\udffd\ud83d\udcbb",
+      "username": "abellmanuell",
+      "created_at": "2016-07-07T14:17:24.000Z",
+      "location": "About Me",
+      "protected": false,
+      "public_metrics": {
+         "followers_count": 170,
+         "following_count": 163,
+         "tweet_count": 1201,
+         "listed_count": 1,
+         "like_count": 3028
+      },
+      "description": "Building https://t.co/jx403x8Hbx \u2022 Create premium softwares that resilience customer's need. Aspiring indie hacker \u2022 Opensource advocate & freelancing.",
+      "entities": {
+         "url": {
+            "urls": [
+               {
+                  "start": 0,
+                  "end": 23,
+                  "url": "https://t.co/34tSoSTz3d",
+                  "expanded_url": "https://www.biodrop.io/abellmanuell",
+                  "display_url": "biodrop.io/abellmanuell"
+               }
+            ]
+         },
+         "description": {
+            "urls": [
+               {
+                  "start": 9,
+                  "end": 32,
+                  "url": "https://t.co/jx403x8Hbx",
+                  "expanded_url": "http://paaumarket.com.ng",
+                  "display_url": "paaumarket.com.ng"
+               }
+            ]
+         }
+      },
+      "pinned_tweet_id": "1684910247947739136",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1668808908557766657/9omoo7YG_normal.jpg"
    }
 ]

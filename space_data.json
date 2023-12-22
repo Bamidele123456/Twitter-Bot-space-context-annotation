@@ -1,240 +1,51 @@
-[
-   {
-      "Space_Title": "Education Tonight",
-      "Participant": 4,
-      "ID": "1mrGmyOPPmZGy",
-      "Topics_Ids": "",
-      "topic_name": [
-         "Education",
-         "Digital creators",
-         "Artificial intelligence",
-         "Technology",
-         "Startups"
-      ],
-      "topic_des": [
-         "All about education",
-         "Entertainment",
-         "Technology",
-         "All about technology",
-         "Business & finance"
-      ],
-      "State": "live",
-      "Host": "1357124413662052358",
-      "Creator ID": "1357124413662052358",
-      "Updated": "2023-12-14T20:48:08.000Z",
-      "Scheduled": "",
-      "invited_user_ids": "1310304903471001604",
-      "speakers": "1310304903471001604",
-      "speakersn": 1,
-      "Total Moderators": 1,
-      "Created": "2023-12-14T20:38:04.000Z",
-      "Started": "2023-12-14T20:38:06.000Z",
-      "Ended": "",
-      "Language": "en",
-      "Subscriber": 4
-   },
-   {
-      "Space_Title": "Early Childhood SGBV Education",
-      "Participant": 7,
-      "ID": "1YqJDgmZklQGV",
-      "Topics_Ids": "",
-      "topic_name": [
-         "Education",
-         "Digital creators",
-         "Artificial intelligence",
-         "Technology",
-         "Startups"
-      ],
-      "topic_des": [
-         "All about education",
-         "Entertainment",
-         "Technology",
-         "All about technology",
-         "Business & finance"
-      ],
-      "State": "live",
-      "Host": "1420694964800004096",
-      "Creator ID": "1420694964800004096",
-      "Updated": "2023-12-14T20:48:12.000Z",
-      "Scheduled": "",
-      "invited_user_ids": "1335773642412732418, 2538775168",
-      "speakers": "1335773642412732418, 1409621931406643201, 2538775168",
-      "speakersn": 3,
-      "Total Moderators": 3,
-      "Created": "2023-12-14T20:15:56.000Z",
-      "Started": "2023-12-14T20:16:00.000Z",
-      "Ended": "",
-      "Language": "en",
-      "Subscriber": 7
-   },
-   {
-      "Space_Title": "UNSCUFFED!! Unstoppable Domain Education.  \ud83d\ude80\ud83d\ude80\ud83d\ude80",
-      "Participant": 0,
-      "ID": "1MYxNovwOmvKw",
-      "Topics_Ids": "",
-      "topic_name": [
-         "Education",
-         "Digital creators",
-         "Artificial intelligence",
-         "Technology",
-         "Startups"
-      ],
-      "topic_des": [
-         "All about education",
-         "Entertainment",
-         "Technology",
-         "All about technology",
-         "Business & finance"
-      ],
-      "State": "scheduled",
-      "Host": "1563031944837070848",
-      "Creator ID": "1563031944837070848",
-      "Updated": "2023-12-14T20:46:48.000Z",
-      "Scheduled": "2023-12-14T22:00:39.000Z",
-      "invited_user_ids": "",
-      "speakers": "",
-      "speakersn": 0,
-      "Total Moderators": 0,
-      "Created": "2023-12-14T16:13:57.000Z",
-      "Started": "",
-      "Ended": "",
-      "Language": "en",
-      "Subscriber": 0
-   },
-   {
-      "Space_Title": "Solutions to the state of civics education in America. ",
-      "Participant": 0,
-      "ID": "1YqGoDPdOyjJv",
-      "Topics_Ids": "",
-      "topic_name": [
-         "Education",
-         "Digital creators",
-         "Artificial intelligence",
-         "Technology",
-         "Startups"
-      ],
-      "topic_des": [
-         "All about education",
-         "Entertainment",
-         "Technology",
-         "All about technology",
-         "Business & finance"
-      ],
-      "State": "scheduled",
-      "Host": "1680967804474781696",
-      "Creator ID": "1680967804474781696",
-      "Updated": "2023-12-14T20:46:48.000Z",
-      "Scheduled": "2023-12-19T18:00:00.000Z",
-      "invited_user_ids": "",
-      "speakers": "",
-      "speakersn": 0,
-      "Total Moderators": 0,
-      "Created": "2023-12-11T15:50:34.000Z",
-      "Started": "",
-      "Ended": "",
-      "Language": "en",
-      "Subscriber": 0
-   },
-   {
-      "Space_Title": "Will AI Save our Broken Education System?",
-      "Participant": 0,
-      "ID": "1yNGaZyDNrrJj",
-      "Topics_Ids": "847546154439000064, 839543456678596608, 898262889378619392",
-      "topic_name": [
-         "Education",
-         "Digital creators",
-         "Artificial intelligence",
-         "Technology",
-         "Startups"
-      ],
-      "topic_des": [
-         "All about education",
-         "Entertainment",
-         "Technology",
-         "All about technology",
-         "Business & finance"
-      ],
-      "State": "scheduled",
-      "Host": "1663333450865156101",
-      "Creator ID": "1663333450865156101",
-      "Updated": "2023-12-14T20:46:48.000Z",
-      "Scheduled": "2023-12-15T19:00:00.000Z",
-      "invited_user_ids": "",
-      "speakers": "",
-      "speakersn": 0,
-      "Total Moderators": 0,
-      "Created": "2023-12-04T21:40:28.000Z",
-      "Started": "",
-      "Ended": "",
-      "Language": "en",
-      "Subscriber": 0
-   },
-   {
-      "Space_Title": "Open Campus Assembly #7: Unlocking Funding in Education",
-      "Participant": 0,
-      "ID": "1vOGwjzygWrKB",
-      "Topics_Ids": "847546154439000064, 848920371311001600, 849075881653846016",
-      "topic_name": [
-         "Education",
-         "Digital creators",
-         "Artificial intelligence",
-         "Technology",
-         "Startups"
-      ],
-      "topic_des": [
-         "All about education",
-         "Entertainment",
-         "Technology",
-         "All about technology",
-         "Business & finance"
-      ],
-      "State": "scheduled",
-      "Host": "1638639710204567554",
-      "Creator ID": "1638639710204567554",
-      "Updated": "2023-12-14T20:46:48.000Z",
-      "Scheduled": "2023-12-15T12:00:00.000Z",
-      "invited_user_ids": "",
-      "speakers": "",
-      "speakersn": 0,
-      "Total Moderators": 0,
-      "Created": "2023-12-13T07:04:48.000Z",
-      "Started": "",
-      "Ended": "",
-      "Language": "en",
-      "Subscriber": 0
-   },
-   {
-      "Space_Title": "AI Will Transform Education - what will happen to teachers?",
-      "Participant": 0,
-      "ID": "1OwxWYgwpRDGQ",
-      "Topics_Ids": "847546154439000064, 839543456678596608, 898262889378619392",
-      "topic_name": [
-         "Education",
-         "Digital creators",
-         "Artificial intelligence",
-         "Technology",
-         "Startups"
-      ],
-      "topic_des": [
-         "All about education",
-         "Entertainment",
-         "Technology",
-         "All about technology",
-         "Business & finance"
-      ],
-      "State": "scheduled",
-      "Host": "1663333450865156101",
-      "Creator ID": "1663333450865156101",
-      "Updated": "2023-12-14T20:46:48.000Z",
-      "Scheduled": "2023-12-19T14:00:00.000Z",
-      "invited_user_ids": "",
-      "speakers": "",
-      "speakersn": 0,
-      "Total Moderators": 0,
-      "Created": "2023-12-13T13:59:09.000Z",
-      "Started": "",
-      "Ended": "",
-      "Language": "en",
-      "Subscriber": 0
-   }
-]
+{
+   "host_ids": [
+      "1442125657819861012"
+   ],
+   "created_at": "2023-11-28T12:55:46.000Z",
+   "participant_count": 40,
+   "lang": "en",
+   "speaker_ids": [
+      "1711352795683569665",
+      "1001546626559864837",
+      "58467277",
+      "1336698338205261825",
+      "1189847093952815111",
+      "1559580622900940802",
+      "1579018585153933312",
+      "751057530802040833"
+   ],
+   "id": "1ZkKzjakaZRKv",
+   "topic_ids": [
+      "848920371311001600"
+   ],
+   "creator_id": "1442125657819861012",
+   "ended_at": "2023-11-28T21:29:58.000Z",
+   "started_at": "2023-11-28T20:00:30.000Z",
+   "updated_at": "2023-11-28T21:30:02.000Z",
+   "title": "S1:EP2 Tech newbies and their challenges. let's have a conversation.",
+   "scheduled_start": "2023-11-28T20:00:52.000Z",
+   "state": "ended",
+   "Space Title": "S1:EP2 Tech newbies and their challenges. let's have a conversation.",
+   "Topics Ids": "848920371311001600",
+   "topic_name": [
+      "Technology"
+   ],
+   "topic_des": [
+      "All about technology"
+   ],
+   "Space State": "ended",
+   "Host ID": [
+      "1442125657819861012"
+   ],
+   "Creator ID": "1442125657819861012",
+   "Updated At": "2023-11-28T21:30:02.000Z",
+   "invited_user_ids": [],
+   "speakers": "1711352795683569665, 1001546626559864837, 58467277, 1336698338205261825, 1189847093952815111, 1559580622900940802, 1579018585153933312, 751057530802040833",
+   "speakersn": 8,
+   "Total Moderators": 8,
+   "Created At": "2023-11-28T12:55:46.000Z",
+   "Ended At": "2023-11-28T21:29:58.000Z",
+   "Language": "en",
+   "Subscriber Count": 40
+}

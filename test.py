@@ -3,7 +3,7 @@ import os
 
 # Set your environment variables in your terminal
 # export 'BEARER_TOKEN'='<your_bearer_token>'
-bearer_token ="AAAAAAAAAAAAAAAAAAAAAAD0pwEAAAAAzMyx25jM6muo7BvUhUcneldRIyQ%3DfszNn1wi14oeNL0DNzTrYgQjnEnARRtHVx1faO57PQiIqe5uip"
+bearer_token ="AAAAAAAAAAAAAAAAAAAAAIUXmgEAAAAAKkT4C5AGl6dy3xpN0Xu8qniIpBM%3DrLZTCakRyejwirFyIcuOOP9BjUk29Z7rGz7TJFd1ofwDccwPvO"
 
 # Twitter Space ID
 space_id ="1OdKrjdAlVnKX"

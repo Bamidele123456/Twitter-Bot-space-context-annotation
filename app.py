@@ -18,14 +18,14 @@ scheduler.start()
 load = Flask(__name__)
 load.secret_key = 'Quadri Basit Ayomide'
 
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAGySqgEAAAAA0JqsjgfL1SbzyhyABcKXE4uSaac%3DJAYEPUd81SKOqZiJNQII9VEN9P2CCoe2VusnSKlzyKSjpLGgHa"
+bearer_token = ""
 
 #################################### Route For The Homepage ############################################
 @load.route('/', methods=['GET', 'POST'])
 def home():
     if request.method == 'POST':
         space_id = request.form["spaceID"]
-        '''try:
+        try:
             with open(json_file_path, 'r') as json_file:
                 data = json.load(json_file)
         except FileNotFoundError:
@@ -37,7 +37,7 @@ def home():
         # Write the updated data back to the JSON file
         with open(json_file_path, 'w') as json_file:
             json.dump(data, json_file, indent=2)
-    '''
+
         params = {
             "expansions": "host_ids,topic_ids,invited_user_ids,creator_id,speaker_ids",
             "space.fields": "created_at,lang,invited_user_ids,participant_count,scheduled_start,started_at,title,topic_ids,updated_at,speaker_ids,ended_at",
